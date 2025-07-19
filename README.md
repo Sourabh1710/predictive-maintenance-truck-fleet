@@ -6,7 +6,7 @@
 
 ### **Live Application Screenshot**
 
-![Streamlit App Screenshot](Live Application Screenshot.png)
+![Streamlit App Screenshot](https://github.com/Sourabh1710/predictive-maintenance-truck-fleet/blob/main/Live%20Application%20Screenshot.png)
 
 ---
 
@@ -64,7 +64,7 @@ The model's performance on the test set demonstrates its value. By proactively i
 
 #### Model Interpretability with SHAP
 
-![SHAP Force Plot](shap_explanation.png)
+![SHAP Force Plot](https://github.com/Sourabh1710/predictive-maintenance-truck-fleet/blob/main/shap_explanation.png)
 
 This plot shows exactly which sensor readings (in red) pushed the model to predict a failure for a specific truck, providing a clear starting point for mechanics.
 
